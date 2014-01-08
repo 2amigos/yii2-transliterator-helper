@@ -1,0 +1,17 @@
+{
+    "name": "2amigos/yii2-transliterator-helper",
+    "description": "Transliterator Helper for Yii2.",
+    "keywords": ["helper", "yii"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Antonio Ramirez",
+            "email": "ramirez.cobos@gmail.com",
+            "homepage": "http://2amigos.us"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "dosamigos\\helpers\\": "src/" }
+    }
+}
