@@ -12,6 +12,6 @@
         }
     ],
     "autoload": {
-        "psr-0": { "dosamigos\\helpers\\": "src/" }
+        "psr-0": { "dosamigos\\yii2\\helpers\\": "src/" }
     }
 }
