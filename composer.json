@@ -1,7 +1,7 @@
 {
     "name": "2amigos/yii2-transliterator-helper",
     "description": "Transliterator Helper for Yii2.",
-    "keywords": ["helper", "yii"],
+    "keywords": ["helper", "yii", "transliterator"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "authors": [
@@ -11,7 +11,12 @@
             "homepage": "http://2amigos.us"
         }
     ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
     "autoload": {
-        "psr-4": { "dosamigos\\": "src/" }
+        "psr-4": {
+            "dosamigos\\yii2\\helpers\\": ""
+        }
     }
 }
