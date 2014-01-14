@@ -6,7 +6,7 @@
  */
 
 
-namespace dosamigos\yii2\helpers;
+namespace dosamigos\helpers;
 
 use Yii;
 
