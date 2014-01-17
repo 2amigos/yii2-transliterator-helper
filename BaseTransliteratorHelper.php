@@ -6,7 +6,7 @@
  */
 
 
-namespace dosamigos\helpers;
+namespace dosamigos\transliterator;
 
 use Yii;
 
