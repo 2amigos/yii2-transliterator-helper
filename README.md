@@ -1,6 +1,8 @@
 TransliteratorHelper for Yii 2
 ==============================
 
+[![Latest Stable Version](https://poser.pugx.org/2amigos/yii2-transliterator-helper/v/stable.svg)](https://packagist.org/packages/2amigos/yii2-transliterator-helper) [![Total Downloads](https://poser.pugx.org/2amigos/yii2-transliterator-helper/downloads.svg)](https://packagist.org/packages/2amigos/yii2-transliterator-helper) [![Latest Unstable Version](https://poser.pugx.org/2amigos/yii2-transliterator-helper/v/unstable.svg)](https://packagist.org/packages/2amigos/yii2-transliterator-helper) [![License](https://poser.pugx.org/2amigos/yii2-transliterator-helper/license.svg)](https://packagist.org/packages/2amigos/yii2-transliterator-helper)
+
 TransliteratorHelper transliterates UTF-8 encoded text to US-ASCII. 
 
 > For a Yii 1.* version, please check [this other repository](https://github.com/2amigos/transliteration-helper).
