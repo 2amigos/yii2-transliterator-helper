@@ -33,7 +33,7 @@ class BaseTransliteratorHelper
 	{
 		// If intl extension load
 		if (extension_loaded('intl') === true) {
-			$options = 'Any-Latin; Latin-ASCII; NFD; [:Nonspacing Mark:] Remove; NFC;';
+			$options = 'Any-Latin; Latin-ASCII; [\u0100-\u7fff] remove;';
 			return transliterator_transliterate($options, $string);
 		}
 		if (!preg_match('/[\x80-\xff]/', $string)) {
