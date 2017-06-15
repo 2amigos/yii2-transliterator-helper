@@ -14,7 +14,9 @@ nbproject
 .project
 .settings
 
-
 # mac deployment helpers
 switch
 index
+
+vendor/
+composer.lock
